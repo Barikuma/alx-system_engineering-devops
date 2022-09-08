@@ -1,2 +1,1 @@
-#!/bin/bash
-tr 'abcdefghijklmnopqrstuvwxyz' 'nopqrstuvwxyzabcdefghijklm' | tr 'nopqrstuvwxyzabcdefghijklm' 'abcdefghijklmnopqrstuvwxyz'
+Everyone is a proponent of strong encryption
